@@ -1,7 +1,7 @@
-#Resources
+# Resources
 Read or watch:
 
-#Object-relational mappers
+# Object-relational mappers
 mysqlclient/MySQLdb documentation (please don’t pay attention to _mysql)
 MySQLdb tutorial
 SQLAlchemy tutorial
@@ -17,7 +17,7 @@ Python Virtual Environments: A primer
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-#General
+# General
 Why Python programming is awesome
 How to connect to a MySQL database from a Python script
 How to SELECT rows in a MySQL table from a Python script
